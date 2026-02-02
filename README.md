@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Limbu</h1>
 <h3 align="center">Motivated MERN Stack developer with hands-on experience building full-stack web applications. Skilled in creating responsive UIs, integrating APIs, and implementing authentication and state management.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiran-limbu" alt="kiran-limbu" /></a> </p>
 
 - 🌱 I’m currently learning **Next js, TS**
 
