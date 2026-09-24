@@ -8,7 +8,7 @@
 
 ![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
-IT bachelor’s student and self-directed full-stack developer focused on building practical web applications. I work mainly with JavaScript, React, Node.js, Express, MongoDB, and TypeScript, with hands-on experience building REST APIs, authentication, real-time features, file uploads, and responsive interfaces.
+Full-stack developer focused on building practical web applications. I work mainly with JavaScript, React, Next.js, Node.js, Express, MongoDB, postgresql and TypeScript, with hands-on experience building REST APIs, authentication, real-time features, file uploads, and responsive interfaces.
 
 - 🏢 Working at **** in ****
 - 💬 Ask me about **Full-stack development, JavaScript frameworks, Building responsive web applications**
